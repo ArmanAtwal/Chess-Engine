@@ -1,4 +1,7 @@
 # Chess AI with Minimax Algorithm
+<img width="539" alt="Screenshot 2023-07-18 at 3 24 48 PM" src="https://github.com/ArmanAtwal/Chess-Engine/assets/139921617/e16d53dc-88e9-411e-a8e7-a34ed43faf0e">
+
+# Description
 This project implements a simple chess AI using the minimax algorithm. The AI evaluates moves by recursively analyzing the game tree, considering different outcomes, and selecting the move that maximizes its chances of winning.
 
 # Features
