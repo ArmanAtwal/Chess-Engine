@@ -12,8 +12,7 @@ git clone https://github.com/your-username/chess-ai.git](https://github.com/Arma
 2. Navigate to the project directory:
 cd chess-ai
 3. Compile and run the application:
-javac ChessAI.java
-java ChessAI
+javac ChessAI.java, java ChessAI
 4. Follow the prompts to play against the AI.
 
 # Requirements
