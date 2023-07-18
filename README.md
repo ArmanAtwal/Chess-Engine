@@ -8,7 +8,7 @@ Integrity Maintenance: Robust mechanisms have been implemented to prevent illega
 
 # Usage
 1. Clone the repository:
-git clone https://github.com/your-username/chess-ai.git
+git clone https://github.com/your-username/chess-ai.git](https://github.com/ArmanAtwal/Chess-Engine
 2. Navigate to the project directory:
 cd chess-ai
 3. Compile and run the application:
